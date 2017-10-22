@@ -16538,3 +16538,8 @@ to explore life. Also, Python and Django Developer
 - Place: Florianópos, SC, Brazil
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
+
+#### Name: [Nikita Belenkov](https://github.com/nbelenkov)
+- Place: Berlin, Germany
+- Bio: programming/infosec enthusiast
+- GitHub: [nbelenkov](https://github.com/nbelenkov)
